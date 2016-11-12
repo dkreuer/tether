@@ -1,0 +1,23 @@
+{
+  "name": "hubspot/tether",
+  "description": "A client-side library to make absolutely positioned elements attach to elements in the page efficiently.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Zack Bloom",
+      "email": "zackbloom@gmail.com",
+      "role": "Author"
+    },
+    {
+      "name": "Adam Schwartz",
+      "email": "adam.flynn.schwartz@gmail.com",
+      "role": "Author"
+    },
+    {
+      "name": "Nicholas Hwang",
+      "email": "nick.joosung.hwang@gmail.com",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "MIT"
+}
